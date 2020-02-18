@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhoWroteIt</string>
+    <string name="instructions">instructions</string>
+    <string name="no_results" />
+    <string name="button_text">Search Books</string>
+    <string name="input_hint">Book Title</string>
+</resources>
